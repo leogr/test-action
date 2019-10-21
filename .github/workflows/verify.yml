@@ -13,5 +13,3 @@ jobs:
      
      - name: Verify
        uses: vchain-us/verify-action@master
-       with:
-        org: 'vchain.us'
